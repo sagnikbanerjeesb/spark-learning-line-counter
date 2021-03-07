@@ -7,12 +7,12 @@
 
 ### Running:
 - Make the deploy script executable (needs to be done only once):
-  ```sh
+  ```bash
   chmod +x ./deploy.sh
   ```
 
 - Deploy and run the application:
-  ```sh
+  ```bash
   ./deploy.sh
   ```
   
